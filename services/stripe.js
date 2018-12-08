@@ -1,5 +1,5 @@
 const app = require('../server');
-const stripeSecretKey = require('../secret.json').stripeSecretKey;
+const stripeSecretKey = require('../server-secret.json').stripeSecretKey;
 
 const stripe = require('stripe')(stripeSecretKey);
 
