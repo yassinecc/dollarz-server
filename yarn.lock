@@ -939,8 +939,8 @@ sequelize-cli@^4.0.0:
     yargs "^8.0.2"
 
 sequelize@^4.37.1:
-  version "4.42.1"
-  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-4.42.1.tgz#352eeb632dffd52db82446378bd57997a6f9fd35"
+  version "4.43.0"
+  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-4.43.0.tgz#41c36c7684b0ea23ca7be1c3af3d65f2309a4ca6"
   dependencies:
     bluebird "^3.5.0"
     cls-bluebird "^2.1.0"
