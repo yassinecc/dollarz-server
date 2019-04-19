@@ -1074,8 +1074,8 @@ strip-eof@^1.0.0:
   resolved "https://registry.yarnpkg.com/strip-eof/-/strip-eof-1.0.0.tgz#bb43ff5598a6eb05d89b59fcd129c983313606bf"
 
 stripe@^6.25.1:
-  version "6.28.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-6.28.0.tgz#81f2bf174efe9503b50f24930a7e1d195c60f810"
+  version "6.29.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-6.29.0.tgz#9f56958b30ae126d1cf383d16e3f5e6651e5afe1"
   dependencies:
     lodash.isplainobject "^4.0.6"
     qs "^6.6.0"
