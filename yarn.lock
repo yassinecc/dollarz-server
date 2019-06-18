@@ -40,7 +40,7 @@ babel-runtime@^6.23.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
-bluebird@^3.0.5, bluebird@^3.4.1, bluebird@^3.5.0, bluebird@^3.5.1, bluebird@^3.5.3:
+bluebird@^3.0.5, bluebird@^3.4.1, bluebird@^3.5.0, bluebird@^3.5.1:
   version "3.5.3"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.3.tgz#7d01c6f9616c9a51ab0f8c549a79dfe6ec33efa7"
 
@@ -934,15 +934,13 @@ sequelize-cli@^4.0.0:
     umzug "^2.1.0"
     yargs "^8.0.2"
 
-sequelize-pool@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/sequelize-pool/-/sequelize-pool-1.0.2.tgz#89c767882bbdb8a41dac66922ed9820939a5401e"
-  dependencies:
-    bluebird "^3.5.3"
+sequelize-pool@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/sequelize-pool/-/sequelize-pool-2.1.0.tgz#cbab1c1872c37e531743e811e0672317ab9e9b84"
 
 sequelize@^5.1.0:
-  version "5.8.7"
-  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-5.8.7.tgz#3af2fd6051277d5fb5b32054c7f8aac4c4a04107"
+  version "5.8.10"
+  resolved "https://registry.yarnpkg.com/sequelize/-/sequelize-5.8.10.tgz#873c76caa43d8e6a66899d143b3616bd9d0b67fc"
   dependencies:
     bluebird "^3.5.0"
     cls-bluebird "^2.1.0"
@@ -954,7 +952,7 @@ sequelize@^5.1.0:
     moment-timezone "^0.5.21"
     retry-as-promised "^3.1.0"
     semver "^5.6.0"
-    sequelize-pool "^1.0.2"
+    sequelize-pool "^2.1.0"
     toposort-class "^1.0.1"
     uuid "^3.2.1"
     validator "^10.11.0"
