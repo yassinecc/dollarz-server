@@ -4,7 +4,7 @@
 
 "@types/node@*":
   version "9.4.7"
-  resolved "http://registry.npmjs.org/@types/node/-/node-9.4.7.tgz#57d81cd98719df2c9de118f2d5f3b1120dcd7275"
+  resolved "https://registry.npmjs.org/@types/node/-/node-9.4.7.tgz#57d81cd98719df2c9de118f2d5f3b1120dcd7275"
 
 abbrev@1:
   version "1.1.1"
@@ -1067,8 +1067,8 @@ strip-eof@^1.0.0:
   resolved "https://registry.yarnpkg.com/strip-eof/-/strip-eof-1.0.0.tgz#bb43ff5598a6eb05d89b59fcd129c983313606bf"
 
 stripe@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-7.1.0.tgz#8e6ba9eefd9947c7e051b7cce23d224148293d1b"
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-7.5.0.tgz#b507b5a3b62dcab9ce50114e7b90db8d56c2322e"
   dependencies:
     lodash.isplainobject "^4.0.6"
     qs "^6.6.0"
